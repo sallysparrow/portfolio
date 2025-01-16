@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Here's another sample post!"
+title:  "2.	Building Sensors and Automation"
 date:   2021-07-27
 categories: jekyll update
 nav_order: 2
