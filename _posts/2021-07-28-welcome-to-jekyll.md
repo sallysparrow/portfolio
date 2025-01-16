@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "GIS Work Samples"
+title:  "1.	GIS/CAFM Spatial Analysis"
 categories: Spacial Data Analysis
 nav_order: 2
 ---
