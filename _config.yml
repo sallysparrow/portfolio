@@ -21,9 +21,10 @@
 title: Work Samples
 email: canranw@andrew.cmu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+I am a graduate student with expertise in spatial analysis, data visualization, and backend development. 
+Skilled in leveraging data-driven tools to address sustainability challenges and optimize decision-making. 
+Proficient in GIS, programming, and simulation. 
+Passionate about addressing urban equity and climate challenges through innovative strategies.
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: "https://sallysparrow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
